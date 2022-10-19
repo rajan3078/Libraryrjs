@@ -1,0 +1,38 @@
+.bg-dark {
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+  }
+
+  .btn-outline-success {
+    background-color: orange;
+    border: 0;
+    height: 67px;
+    width: 102px !important;
+    /* margin-top: -13px; */
+    width: 223 !important;
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
+  }
+
+  .btn-outline-success:hover {
+    color: green !important;
+    background-color: orange !important;
+    border-color: orange !important;
+  }
+
+  .header {
+    margin-top: 20px;
+  }
+
+  .form-control {
+    width: 86% !important;
+  }
+
+  a{
+    text-decoration: underline !important; 
+  }
+
+  .background-register{
+    background-color: orange;
+padding: 21px;
+}
